@@ -14,11 +14,14 @@ his week’s homework requires you to modify starter code to create an applicati
 
  5. Pushes the user's selections to generate password.
 
+![Password Generator](https://github.com/Zermeno94/password-generator/blob/main/PasswordGenerator.png)
+
+
 ## **Links**
 
- [Link to the deployed website]  
+ [Link to the deployed website]()
 
- [Link to the code repository]
+ [Link to the code repository](https://github.com/Zermeno94/password-generator)
 
 ## **Credits**
 Miranda Zermeno

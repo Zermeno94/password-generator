@@ -14,7 +14,7 @@ his week’s homework requires you to modify starter code to create an applicati
 
  5. Pushes the user's selections to generate password.
 
-![Password Generator](https://github.com/Zermeno94/password-generator/blob/main/PasswordGenerator.png)
+![Password Generator](https://raw.githubusercontent.com/Zermeno94/password-generator/main/Password%20Generator%20.png)
 
 
 ## **Links**
@@ -36,6 +36,13 @@ Miranda Zermeno
 * [https://developer.mozilla.org/en-US/docs/Glossary/Truthy]
 * [https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Method_definitions]
 * [https://www.w3schools.com/jsref/jsref_if.asp]
+* [https://www.youtube.com/watch?v=i6cX05cyIgc]
+* [https://www.youtube.com/watch?v=iKo9pDKKHnc]
+* [https://www.youtube.com/watch?v=oigfaZ5ApsM]
+* [https://www.youtube.com/watch?v=R8rmfD9Y5-c]
+* [https://www.youtube.com/watch?v=8FmBEN0XZyI]
+* [Slack-tutorassistance83127]
+
 
 
 
